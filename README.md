@@ -4,8 +4,13 @@
 # 20:47
 20181026
 
+<<<<<<< HEAD
 #Git Lesson
 
 - feature-A
 
- 
+fix-B
+20181027
+
+
+>>>>>>> fix-B
